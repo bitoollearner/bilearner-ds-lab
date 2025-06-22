@@ -2,9 +2,9 @@
 
 Welcome to my GitHub repository for data engineering projects! This repository contains end-to-end projects I’ve built and explained on my YouTube channel. Each project demonstrates real-world data engineering use cases using modern tools and platforms.
 
-| S.No | Project Name     | Description                                                                 | Industry Type     | Technologies Used                             | Level     | Repository Link                |
+| S.No | Project Name     | Description                                                                 | Industry Type     | Technologies Used                             | Level     | Repo Link                |
 |------|------------------|-----------------------------------------------------------------------------|-------------------|-----------------------------------------------|-----------|-------------------------------|
-| 1    | Yahoo Finance    | Yahoo Finance Data Engineering Project built using Microsoft Fabric. It covers data ingestion, transformation, and lakehouse integration using Dataflows Gen2 and Notebooks. | Finance/Stock Market | Microsoft Fabric, Dataflows Gen2, Lakehouse, Notebooks | Intermediate | [View Repo](link-to-project-1) |
+| 1    | Yahoo Finance    | Yahoo Finance Data Engineering Project built using Microsoft Fabric. It covers data ingestion, transformation, and lakehouse integration using Dataflows Gen2 and Notebooks. | Finance/Stock Market | Microsoft Fabric, Dataflows Gen2, Lakehouse, Notebooks | Intermediate | [...](link-to-project-1) |
 
 ## 📺 YouTube Channel
 
