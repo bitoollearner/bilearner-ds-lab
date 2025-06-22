@@ -1,18 +1,15 @@
 # Data Engineering Projects Repository
 
-Welcome to my GitHub repository for data engineering projects! This repository hosts various projects that I've created, which are also featured on my YouTube channel. Below is a list of projects along with links to their respective repositories:
+Welcome to my GitHub repository for data engineering projects! This repository contains end-to-end projects I’ve built and explained on my YouTube channel. Each project demonstrates real-world data engineering use cases using modern tools and platforms.
 
-| Project Name | Description | Repository Link |
-|--------------|-------------|-----------------|
-| Yahoo Finance| Yahoo Finance Data Engineering Project (Microsoft Fabric) | [...](link-to-project-1) |
+| S.No | Project Name     | Description                                                                 | Industry Type     | Technologies Used                             | Level     | Repository Link                |
+|------|------------------|-----------------------------------------------------------------------------|-------------------|-----------------------------------------------|-----------|-------------------------------|
+| 1    | Yahoo Finance    | Yahoo Finance Data Engineering Project built using Microsoft Fabric. It covers data ingestion, transformation, and lakehouse integration using Dataflows Gen2 and Notebooks. | Finance/Stock Market | Microsoft Fabric, Dataflows Gen2, Lakehouse, Notebooks | Intermediate | [View Repo](link-to-project-1) |
 
-Feel free to explore these projects, contribute, or provide feedback!
-
-## YouTube Channel
+## 📺 YouTube Channel
 
 Check out my [BI Learnerl](https://www.youtube.com/@bilearner) for detailed video tutorials and demonstrations of these projects.
 
-## About Me
+## 🙋‍♂️ About Me
 
-I'm passionate about data engineering, BI tools and regularly create content to share knowledge and best practices in these fields.
-
+I'm a Data Engineer and content creator focused on delivering real-world projects in the data ecosystem. This repository is designed to help others understand, implement, and gain confidence in building production-grade data solutions.
