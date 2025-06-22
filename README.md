@@ -12,4 +12,4 @@ Check out my [BI Learnerl](https://www.youtube.com/@bilearner) for detailed vide
 
 ## 🙋‍♂️ About Me
 
-I'm a Data Engineer and content creator focused on delivering real-world projects in the data ecosystem. This repository is designed to help others understand, implement, and gain confidence in building production-grade data solutions.
+I'm a Data Engineer, Bi Consultant and content creator focused on delivering real-world projects in the data ecosystem. This repository is designed to help others understand, implement, and gain confidence in building production-grade data solutions.
