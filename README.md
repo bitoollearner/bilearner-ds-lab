@@ -4,7 +4,7 @@ Welcome to my GitHub repository for data engineering projects! This repository c
 
 | S.No | Project Name     | Description                                                                 | Industry Type     | Technologies Used                             | Level     | Repo Link                |
 |------|------------------|-----------------------------------------------------------------------------|-------------------|-----------------------------------------------|-----------|-------------------------------|
-| 1    | Yahoo Finance    | Yahoo Finance Data Engineering Project built using Microsoft Fabric. It covers data ingestion, transformation, and lakehouse integration using Dataflows Gen2 and Notebooks. | Finance/Stock Market | Microsoft Fabric, Dataflows Gen2, Lakehouse, Notebooks | Intermediate | [...](link-to-project-1) |
+| 1    | Yahoo Finance    | Yahoo Finance Data Engineering Project built using Microsoft Fabric. It covers data ingestion, transformation, and lakehouse integration using Dataflows Gen2 and Notebooks. | Finance/Stock Market | Microsoft Fabric, Dataflows Gen2, Lakehouse, Notebooks | Intermediate | [...](https://github.com/bitoollearner/de-project-BI-Learner/tree/main/yahoo-finance) |
 
 ## 📺 YouTube Channel
 
