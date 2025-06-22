@@ -8,7 +8,7 @@ Welcome to my GitHub repository for data engineering projects! This repository c
 
 ## 📺 YouTube Channel
 
-Check out my [BI Learner](https://www.youtube.com/@bilearner) for detailed video tutorials and demonstrations of these projects.
+Check out my channel [BI Learner](https://www.youtube.com/@bilearner) for detailed video tutorials and demonstrations of these projects.
 
 ## 🙋‍♂️ About Me
 
