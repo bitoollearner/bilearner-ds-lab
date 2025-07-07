@@ -6,8 +6,7 @@ Certainly! Here's a more concise version of the project description that still r
 
 | S.No | Project Name               | Description                                                                                             | Industry Type      | Technologies Used                                                       | Level    | Repo Link                                                                                      |
 |------|----------------------------|---------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------|
-| 1    | Yahoo Finance Stock Lakehouse | Microsoft Fabric–based pipeline using Medallion architecture for ingesting, transforming, and serving Yahoo Finance data with MLFlow, CI/CD, and Power BI integration. | Finance/Stock Market | Microsoft Fabric, PySpark, Lakehouse, SQL, MLFlow, Power BI, CI/CD         | Advanced | [View Repo](https://github.com/bitoollearner/de-project-BI-Learner/tree/main/yahoo-finance) |
-```
+| 1    | Yahoo Finance Stock Lakehouse | Microsoft Fabric–based pipeline using Medallion architecture for ingesting, transforming, and serving Yahoo Finance data with MLFlow, CI/CD, and Power BI integration. | Finance/Stock Market | Microsoft Fabric, PySpark, Lakehouse, SQL, MLFlow, Power BI, CI/CD         | Advanced | [...](https://github.com/bitoollearner/de-project-BI-Learner/tree/main/yahoo-finance) |
 
 ## 📺 YouTube Channel
 
