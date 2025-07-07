@@ -64,10 +64,9 @@ This repository demonstrates how to:
        | Fabric Lakehouse Tables + SQL Database   |
        +------------------------------------------+
 
----
+```
 
 📁 Folder Structure
-<details> <summary>Click to expand</summary>
 
 📦 Project Root
 ├── 📂 Pipelines
@@ -156,4 +155,3 @@ This repository demonstrates how to:
         └── 📂 stored_procedures
             └── usp_logdetails
 
-</details>
