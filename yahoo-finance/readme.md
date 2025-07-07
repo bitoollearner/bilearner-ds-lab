@@ -47,8 +47,25 @@ This repository demonstrates how to:
 
 ---
 
-📁 Folder Structure
+## 🏗️ Architecture
 
+```text
+                 +---------------------+
+                 |  Yahoo Finance API  |
+                 +---------------------+
+                           ↓
+                   [ Bronze Pipelines ]
+                           ↓
+                   [ Silver Pipelines ]
+                           ↓
+                   [  Gold Pipelines  ]
+                           ↓
+       +------------------------------------------+
+       | Fabric Lakehouse Tables + SQL Database   |
+       +------------------------------------------+
+
+
+📁 Folder Structure
 📦 Project Root
 ├── 📂 Pipelines
 │   ├── 📂 bronze
@@ -135,4 +152,59 @@ This repository demonstrates how to:
         │       └── yahoo_stock_news
         └── 📂 stored_procedures
             └── usp_logdetails
+
+
+🔧 Technologies Used
+
+| Layer          | Technology                              |
+| -------------- | --------------------------------------- |
+| Ingestion      | Microsoft Fabric Pipelines              |
+| Transformation | Microsoft Fabric Notebooks (PySpark)    |
+| Storage        | Microsoft Fabric Lakehouse              |
+| Serving        | Fabric SQL DB, Delta Tables             |
+| Source         | Yahoo Finance API (`yfinance`)          |
+| Logging        | SQL Stored Procedure (`usp_logdetails`) |
+| Configuration  | JSON-based environment settings         |
+
+
+⚙️ Configuration
+
+{
+  "tickers": ["AAPL", "TSLA", "GOOG"],
+  "start_date": "2023-01-01",
+  "end_date": "2025-01-01",
+  "news_api_key": "<your_api_key>",
+  "log_schema": "dbo"
+}
+
+
+🧠 Use Cases
+📊 Create stock dashboards with Power BI
+
+📈 Train ML models on historical stock trends
+
+📰 Track sentiment using news and price correlation
+
+💹 Perform financial health analysis using income/balance/cash flow
+
+🧾 Build investment screeners
+
+
+📈 Future Enhancements
+ Real-time ingestion via Azure Event Hub
+
+ MLFlow integration for model tracking
+
+ Power BI dashboard templates
+
+ CI/CD deployment via GitHub Actions
+
+ Data Quality checks in Silver Layer
+
+
+🙋‍♂️ Author
+Shiv
+Co-founder & Director of Product Strategy
+Pyzen Technologies, Delhi, India
+🔗 LinkedIn • 🌐 pyzentech.com
 
