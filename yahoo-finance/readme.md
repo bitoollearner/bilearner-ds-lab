@@ -1,4 +1,4 @@
-# 📊 Microsoft Fabric Data Engineering Project – Yahoo Finance Stock Lakehouse
+# 📊 Microsoft Fabric Data Engineering Project – Yahoo Finance Stock
 
 This project is a **production-grade, end-to-end data engineering solution** built on **Microsoft Fabric**. It automates the ingestion, transformation, and curation of stock market and financial data from **Yahoo Finance**, structured using a **Medallion architecture (Bronze → Silver → Gold)** and served via **Lakehouse tables** and **SQL Database**.
 
@@ -13,10 +13,7 @@ The output is ready for use in **Power BI dashboards**, **Machine Learning model
 - [🏗️ Architecture Diagram](#-architecture-diagram)
 - [📁 Folder Structure](#-folder-structure)
 - [🔧 Technologies Used](#-technologies-used)
-- [⚙️ Configuration](#%EF%B8%8F-configuration)
-- [🚦 Getting Started](#-getting-started)
 - [🧠 Use Cases](#-use-cases)
-- [📊 Future Enhancements](#-future-enhancements)
 - [👨‍💼 Author](#-author)
 - [📄 License](#-license)
 
@@ -43,7 +40,9 @@ This solution implements a highly scalable data lakehouse pipeline that:
 - End-to-end Logging via SQL Stored Procedures
 - Real-time and batch readiness
 - Optimized for BI & ML downstream use
-
+- Embedded Power BI dashboards
+- Fabric CI/CD deployment enabled
+- Data Quality checks implemented in Silver Layer
 ---
 
 ## 🏗️ Architecture Diagram
@@ -175,37 +174,6 @@ This solution implements a highly scalable data lakehouse pipeline that:
 
 ---
 
-## ⚙️ Configuration
-
-Update the following file with your environment-specific settings:
-
-``
-
-```json
-{
-  "tickers": ["AAPL", "TSLA", "GOOG"],
-  "start_date": "2023-01-01",
-  "end_date": "2025-01-01",
-  "news_api_key": "<your_api_key>",
-  "log_schema": "dbo"
-}
-```
-
----
-
-## 🚦 Getting Started
-
-1. **Configure** the `yahoo_env.json` file
-2. **Run Bronze Master Pipeline**
-   - Ingest raw data from APIs
-3. **Run Silver Master Pipeline**
-   - Clean, normalize and join data
-4. **Run Gold Master Pipeline**
-   - Load final tables into SQL and Lakehouse
-5. **Validate** via SQL or Lakehouse table explorer
-6. **Visualize** via Power BI or ML notebooks
-
----
 
 ## 🧠 Use Cases
 
@@ -217,18 +185,10 @@ Update the following file with your environment-specific settings:
 
 ---
 
-## 📊 Future Enhancements
-
--
-
----
-
 ## 👨‍💼 Author
 
-**Shiv**\
-Co-founder & Director of Product Strategy\
-[Pyzen Technologies](https://pyzentech.com) • Delhi, India\
-[LinkedIn](https://www.linkedin.com) | [Website](https://pyzentech.com)
+[**BI Learner**](www.youtube.com/@bilearner)\
+[LinkedIn](https://www.linkedin.com/in/bilearner/)
 
 ---
 
