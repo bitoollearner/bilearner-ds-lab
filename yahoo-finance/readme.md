@@ -14,6 +14,7 @@ The output is ready for use in **Power BI dashboards**, **Machine Learning model
 - [📁 Folder Structure](#-folder-structure)
 - [🔧 Technologies Used](#-technologies-used)
 - [🧠 Use Cases](#-use-cases)
+- [📦 Project Materials](#-project-materials)
 - [👨‍💼 Author](#-author)
 - [📄 License](#-license)
 
@@ -182,6 +183,14 @@ This solution implements a highly scalable data lakehouse pipeline that:
 - 🔍 News-based stock movement correlation
 - 📊 ML model training for stock prediction
 - 📈 Risk scoring and investment insights
+
+---
+
+## 📦 Project Materials
+
+You can find supporting notebooks, configurations, and Power BI reports here:
+
+🔗 [Project Materials Folder](https://github.com/bitoollearner/de-project-BI-Learner/tree/main/yahoo-finance/materials)
 
 ---
 
