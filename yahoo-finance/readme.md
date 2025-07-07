@@ -67,6 +67,7 @@ This repository demonstrates how to:
 ---
 
 📁 Folder Structure
+<details> <summary>Click to expand</summary>
 
 📦 Project Root
 ├── 📂 Pipelines
@@ -154,3 +155,5 @@ This repository demonstrates how to:
         │       └── yahoo_stock_news
         └── 📂 stored_procedures
             └── usp_logdetails
+
+</details>
