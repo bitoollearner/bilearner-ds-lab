@@ -2,9 +2,12 @@
 
 Welcome to my GitHub repository for data engineering projects! This repository contains end-to-end projects I’ve built and explained on my YouTube channel. Each project demonstrates real-world data engineering use cases using modern tools and platforms.
 
-| S.No | Project Name     | Description                                                                 | Industry Type     | Technologies Used                             | Level     | Repo Link                |
-|------|------------------|-----------------------------------------------------------------------------|-------------------|-----------------------------------------------|-----------|-------------------------------|
-| 1    | Yahoo Finance    | Yahoo Finance Data Engineering Project built using Microsoft Fabric. It covers data ingestion, transformation, and lakehouse integration using Dataflows Gen2 and Notebooks. | Finance/Stock Market | Microsoft Fabric, Dataflows Gen2, Lakehouse, Notebooks | Intermediate | [...](https://github.com/bitoollearner/de-project-BI-Learner/tree/main/yahoo-finance) |
+Certainly! Here's a more concise version of the project description that still reflects its key strengths:
+
+| S.No | Project Name               | Description                                                                                             | Industry Type      | Technologies Used                                                       | Level    | Repo Link                                                                                      |
+|------|----------------------------|---------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------|
+| 1    | Yahoo Finance Stock Lakehouse | Microsoft Fabric–based pipeline using Medallion architecture for ingesting, transforming, and serving Yahoo Finance data with MLFlow, CI/CD, and Power BI integration. | Finance/Stock Market | Microsoft Fabric, PySpark, Lakehouse, SQL, MLFlow, Power BI, CI/CD         | Advanced | [View Repo](https://github.com/bitoollearner/de-project-BI-Learner/tree/main/yahoo-finance) |
+```
 
 ## 📺 YouTube Channel
 
