@@ -190,7 +190,7 @@ This solution implements a highly scalable data lakehouse pipeline that:
 
 You can find supporting notebooks, configurations, and Power BI reports here:
 
-🔗 [Project Materials Folder](https://github.com/bitoollearner/de-project-BI-Learner/tree/main/yahoo-finance/materials)
+🔗 [Project Materials Folder]([https://github.com/bitoollearner/de-project-BI-Learner/tree/main/yahoo-finance/materials](https://github.com/bitoollearner/de-project-BI-Learner/blob/main/yahoo-finance/Yahoo%20Stock%20End%20to%20End%20Project.zip))
 
 ---
 
