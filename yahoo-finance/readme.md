@@ -63,3 +63,115 @@ This repository demonstrates how to:
        +------------------------------------------+
        | Fabric Lakehouse Tables + SQL Database   |
        +------------------------------------------+
+
+
+📁 Folder Structure
+
+📦 Project Root
+├── 📂 Pipelines
+│   ├── 📂 bronze
+│   │   ├── 📂 bronze-yf-stock-pipelines
+│   │   │   ├── bronze-yf-stock-Income-statement-pipeline
+│   │   │   ├── bronze-yf-stock-getting-historical-data-pipeline
+│   │   │   ├── bronze-yf-stock-companies-news-pipeline
+│   │   │   ├── bronze-yf-stock-companies-info-pipeline
+│   │   │   ├── bronze-yf-stock-cash-flow-pipeline
+│   │   │   ├── bronze-yf-stock-balance-sheet-pipeline
+│   │   │   └── bronze-yf-master-pipeline
+│   │   └── 📂 bronze-yf-stock-notebook
+│   │       ├── bronze-getting-historical-data
+│   │       ├── bronze-companies-stock-news
+│   │       ├── bronze-companies-information
+│   │       ├── bronze-companies-Income-statement
+│   │       ├── bronze-companies-cash-flow-statement
+│   │       └── bronze-companies-balance-sheet
+│
+│   ├── 📂 silver
+│   │   ├── 📂 silver-yf-stock-pipelines
+│   │   │   ├── silver-yf-stock-Income-statement-pipeline
+│   │   │   ├── silver-yf-stock-getting-historical-data-pipeline
+│   │   │   ├── silver-yf-stock-companies-news-pipeline
+│   │   │   ├── silver-yf-stock-companies-info-pipeline
+│   │   │   ├── silver-yf-stock-cash-flow-pipeline
+│   │   │   ├── silver-yf-stock-balance-sheet-pipeline
+│   │   │   └── silver-yf-master-pipeline
+│   │   └── 📂 silver-yf-stock-notebook
+│   │       ├── silver-getting-historical-data
+│   │       ├── silver-companies-stock-news
+│   │       ├── silver-companies-information
+│   │       ├── silver-companies-Income-statement
+│   │       ├── silver-companies-cash-flow-statement
+│   │       └── silver-companies-balance-sheet
+│
+│   └── 📂 gold
+│       ├── 📂 gold-yf-stock-pipelines
+│       │   ├── gold-yf-stock-sql-table-pipeline
+│       │   ├── gold-yf-stock-master-notebook-run
+│       │   └── gold-yf-master-pipeline
+│       └── 📂 gold-yf-stock-notebook
+│           ├── gold-yahoo-stock-news
+│           ├── gold-yahoo-financial-statements
+│           └── gold-financials-stock-data
+│
+├── 📂 Lakehouse
+│   └── 📂 yahoo_stock_LH
+│       ├── 📂 tables
+│       │   ├── yahoo_financial_statements
+│       │   ├── yahoo_stock
+│       │   └── yahoo_stock_news
+│       ├── 📂 bronze
+│       │   ├── comp_bal_sheet_data
+│       │   ├── comp_cash_flow_data
+│       │   ├── comp_incm_stmt_data
+│       │   ├── comp_info_data
+│       │   ├── comp_news_data
+│       │   └── yfinance_data
+│       ├── 📂 silver
+│       │   ├── comp_bal_sheet_data
+│       │   ├── comp_cash_flow_data
+│       │   ├── comp_incm_stmt_data
+│       │   ├── comp_info_data
+│       │   ├── comp_news_data
+│       │   └── yfinance_data
+│       ├── 📂 gold
+│       └── 📂 master_files
+│           ├── breakdown_categories
+│           ├── company_code
+│           └── pipelines
+│
+├── 📂 config
+│   └── yahoo_env
+│
+└── 📂 Sql_database
+    └── yf-stock-db
+        ├── 📂 tables
+        │   ├── 📂 dbo
+        │   │   └── log_details
+        │   └── 📂 gold
+        │       ├── yahoo_financial_statements
+        │       ├── yahoo_stock
+        │       └── yahoo_stock_news
+        └── 📂 stored_procedures
+            └── usp_logdetails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
