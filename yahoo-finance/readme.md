@@ -64,6 +64,7 @@ This repository demonstrates how to:
        | Fabric Lakehouse Tables + SQL Database   |
        +------------------------------------------+
 
+---
 
 📁 Folder Structure
 
@@ -153,25 +154,3 @@ This repository demonstrates how to:
         │       └── yahoo_stock_news
         └── 📂 stored_procedures
             └── usp_logdetails
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
