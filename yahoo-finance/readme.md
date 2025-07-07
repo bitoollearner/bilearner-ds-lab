@@ -47,25 +47,6 @@ This repository demonstrates how to:
 
 ---
 
-## 🏗️ Architecture
-
-```text
-                 +---------------------+
-                 |  Yahoo Finance API  |
-                 +---------------------+
-                           ↓
-                   [ Bronze Pipelines ]
-                           ↓
-                   [ Silver Pipelines ]
-                           ↓
-                   [  Gold Pipelines  ]
-                           ↓
-       +------------------------------------------+
-       | Fabric Lakehouse Tables + SQL Database   |
-       +------------------------------------------+
-
-```
-
 📁 Folder Structure
 
 📦 Project Root
