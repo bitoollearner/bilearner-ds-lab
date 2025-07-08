@@ -173,7 +173,7 @@ This solution implements a highly scalable data lakehouse pipeline that:
 
 You can find the project video here:
 
-▶️ [Watch on YouTube](https://www.youtube.com/watch?v=30mPtIjYZ8I)
+▶️ [![Watch the video](https://i.ytimg.com/vi/30mPtIjYZ8I/maxresdefault.jpg)](https://www.youtube.com/watch?v=30mPtIjYZ8I)
 
 ---
 
