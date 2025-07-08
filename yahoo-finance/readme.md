@@ -14,6 +14,7 @@ The output is ready for use in **Power BI dashboards**, **Machine Learning model
 - [📁 Folder Structure](#-folder-structure)
 - [🔧 Technologies Used](#-technologies-used)
 - [🧠 Use Cases](#-use-cases)
+- [▶️ Project Video](#-project-video)
 - [📦 Project Materials](#-project-materials)
 - [👨‍💼 Author](#-author)
 - [📄 License](#-license)
