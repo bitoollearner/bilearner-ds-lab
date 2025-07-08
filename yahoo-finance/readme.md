@@ -169,6 +169,14 @@ This solution implements a highly scalable data lakehouse pipeline that:
 
 ---
 
+## 📦 Project Video
+
+You can find the project video here:
+
+▶️ [Watch on YouTube](https://www.youtube.com/watch?v=30mPtIjYZ8I)
+
+---
+
 ## 📦 Project Materials
 
 You can find supporting notebooks, configurations, and Power BI reports here:
