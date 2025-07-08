@@ -49,24 +49,6 @@ This solution implements a highly scalable data lakehouse pipeline that:
 ## 🏗️ Architecture Diagram
 ![Yahoo Stock Architecture Diagram](https://raw.githubusercontent.com/bitoollearner/de-project-BI-Learner/refs/heads/main/yahoo-finance/Yahoo-Stock-Architecture.svg)
 
-```text
-+------------------------+
-|   Yahoo Finance API    |
-+------------------------+
-            ⬇
-    [ Bronze Pipelines ]  — Raw JSON, CSV ingestion
-            ⬇
-    [ Silver Pipelines ]  — Data cleaning & normalization
-            ⬇
-    [  Gold Pipelines  ]  — Business aggregates, joining
-            ⬇
-+--------------------------------------------+
-| Fabric Lakehouse Tables + SQL Gold Tables  |
-+--------------------------------------------+
-            ⬇
-    [ Power BI / ML Modeling / Analytics ]
-```
-
 ---
 
 ## 📁 Folder Structure
