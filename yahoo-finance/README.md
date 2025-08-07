@@ -183,7 +183,7 @@ You can find the project video here:
 
 You can find supporting notebooks, configurations, and Power BI reports here:
 
-🔗 [Project Materials Folder](https://github.com/bitoollearner/de-project-BI-Learner/blob/main/yahoo-finance/Yahoo%20Stock%20End%20to%20End%20Project.zip)
+🔗 [Please complete this form regarding the project materials. Thank you!](https://docs.google.com/forms/d/e/1FAIpQLSclOVSLYW0AJN-ZDGzVK6Xhi6RaHo5hTX44aTsG0IR32Du1pA/viewform)
 
 ---
 
@@ -196,7 +196,7 @@ You can find supporting notebooks, configurations, and Power BI reports here:
 
 ## 📄 License
 
-Licensed under the **MIT License**. See `LICENSE` file for more details.
+Licensed under the **MIT License**. See the `LICENSE` file for more details.
 
 ---
 
