@@ -4,7 +4,7 @@ Welcome to my GitHub repository for data engineering projects! This repository c
 
 | S.No | Project Name               | Description                                                                                             | Industry Type      | Technologies Used                                                       | Level    | Repo Link                                                                                      |
 |------|----------------------------|---------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------|
-| 1    | Yahoo Finance Stock Lakehouse | Microsoft Fabric–based pipeline using Medallion architecture for ingesting, transforming, and serving Yahoo Finance data with MLFlow, CI/CD, and Power BI integration. | Finance/Stock Market | Microsoft Fabric, PySpark, Lakehouse, SQL, MLFlow, Power BI, CI/CD         | Advanced | [...](https://github.com/bitoollearner/de-project-BI-Learner/tree/main/yahoo-finance) |
+| 1    | Yahoo Finance Stock Lakehouse | Microsoft Fabric–based pipeline using Medallion architecture for ingesting, transforming, and serving Yahoo Finance data with MLFlow, CI/CD, and Power BI integration. | Finance/Stock Market | Microsoft Fabric, PySpark, Lakehouse, SQL, Power BI, CI/CD         | Advanced | [...](https://github.com/bitoollearner/de-project-BI-Learner/tree/main/yahoo-finance) |
 
 ## 📺 YouTube Channel
 
