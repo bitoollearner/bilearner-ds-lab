@@ -48,7 +48,7 @@ This solution implements a highly scalable data lakehouse pipeline that:
 ---
 
 ## 🏗️ Architecture Diagram
-<img src="https://raw.githubusercontent.com/bitoollearner/de-project-BI-Learner/refs/heads/main/yahoo-finance/Yahoo-Stock-Architecture.png" alt="Yahoo Stock Architecture Diagram" />
+<img src="https://raw.githubusercontent.com/bitoollearner/bilearner-ds-lab/refs/heads/main/yahoo-finance/Yahoo-Stock-Architecture.png" alt="Yahoo Stock Architecture Diagram" />
 
 ---
 
