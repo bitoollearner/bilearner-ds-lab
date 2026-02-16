@@ -17,6 +17,6 @@ Check out my channel [BI Learner](https://www.youtube.com/@bilearner) for detail
 I'm a Data Engineer, Bi Consultant, and content creator focused on delivering real-world projects in the data ecosystem. This repository is designed to help others understand, implement, and gain confidence in building production-grade data solutions.
 
 ---
-⭐ Support the Work
+## ⭐ Support the Work
 
 If you find these projects helpful, consider **starring the repository** to support the work and help others discover it.
