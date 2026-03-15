@@ -169,14 +169,6 @@ This solution implements a highly scalable data lakehouse pipeline that:
 - 📊 ML model training for stock prediction
 - 📈 Risk scoring and investment insights
 
----
-
-## 📦 Project Video
-
-You can find the project video here:
-
-▶️ [![Watch the video](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D30mPtIjYZ8I)]()
-
 
 ---
 
@@ -184,7 +176,7 @@ You can find the project video here:
 
 You can find supporting notebooks, configurations, and Power BI reports here:
 
---🔗 [Please complete this form regarding the project materials. Thank you!](https://docs.google.com/forms/d/e/1FAIpQLSclOVSLYW0AJN-ZDGzVK6Xhi6RaHo5hTX44aTsG0IR32Du1pA/viewform)
+🔗 [Please complete this form regarding the project materials. Thank you!](https://docs.google.com/forms/d/e/1FAIpQLSclOVSLYW0AJN-ZDGzVK6Xhi6RaHo5hTX44aTsG0IR32Du1pA/viewform)
 
 ---
 
