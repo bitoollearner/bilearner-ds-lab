@@ -36,15 +36,15 @@ This solution implements a highly scalable data lakehouse pipeline that:
 ## 🌟 Features
 
 - Modular Medallion Architecture
-- Domain-driven Data Pipelines
+- Metadata-driven Data Pipelines
 - Configurable PySpark Notebooks
 - Delta Lake Storage and Lakehouse Integration
 - End-to-end Logging via SQL Stored Procedures
-- Real-time and batch readiness
+- Batch readiness
 - Optimized for BI & ML downstream use
 - Embedded Power BI dashboards
 - Fabric CI/CD deployment enabled
-- Data Quality checks implemented in Silver Layer
+
 ---
 
 ## 🏗️ Architecture Diagram
