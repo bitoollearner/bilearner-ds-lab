@@ -130,6 +130,7 @@ This solution implements a highly scalable data lakehouse pipeline that:
 │
 ├── 📂 config
 │   └── yahoo_env
+|   └── pipeline-metadata-notebook
 │
 └── 📂 Sql_database
     └── yf-stock-db
