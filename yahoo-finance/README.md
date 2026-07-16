@@ -170,6 +170,14 @@ This solution implements a highly scalable data lakehouse pipeline that:
 - 📊 ML model training for stock prediction
 - 📈 Risk scoring and investment insights
 
+---
+
+## 📦 Project Video
+
+You can view the complete end-to-end project video here:
+
+🔗 [Microsoft Fabric Data Engineering Project End to End](https://youtu.be/3Q3QzjbEQgk)
+
 
 ---
 
