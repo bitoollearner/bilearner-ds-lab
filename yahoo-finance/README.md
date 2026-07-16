@@ -179,7 +179,6 @@ You can view the complete end-to-end project video here:
 [![Microsoft Fabric Data Engineering Project End to End](https://img.youtube.com/vi/PG5EOgd2cKs/hqdefault.jpg)](https://youtu.be/PG5EOgd2cKs)
 
 
-
 ---
 
 ## 📦 Project Materials
