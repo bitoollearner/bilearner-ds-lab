@@ -176,7 +176,7 @@ This solution implements a highly scalable data lakehouse pipeline that:
 
 You can view the complete end-to-end project video here:
 
-🔗 [Microsoft Fabric Data Engineering Project End to End](https://youtu.be/3Q3QzjbEQgk)
+🔗 [Microsoft Fabric Data Engineering Project End to End](https://youtu.be/PG5EOgd2cKs)
 
 
 ---
